@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\bin\Debug\netcoreapp3.1\Vegetable_Market.exe
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\bin\Debug\netcoreapp3.1\Vegetable_Market.deps.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\bin\Debug\netcoreapp3.1\Vegetable_Market.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\bin\Debug\netcoreapp3.1\Vegetable_Market.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\bin\Debug\netcoreapp3.1\Vegetable_Market.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\bin\Debug\netcoreapp3.1\Vegetable_Market.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Vegetable_Market\obj\Debug\netcoreapp3.1\Vegetable_Market.genruntimeconfig.cache

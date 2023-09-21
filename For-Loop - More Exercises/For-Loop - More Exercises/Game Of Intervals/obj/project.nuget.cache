@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxlwq+vtAbXnqOom+9EIOY15XyC/60mZ60V3tFb5X/e91SadDnw3Ir4nwiwX9DSnWJYzr3KIU2CWa2TDvpQuKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\For-Loop - More Exercises\\For-Loop - More Exercises\\Game Of Intervals\\Game Of Intervals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

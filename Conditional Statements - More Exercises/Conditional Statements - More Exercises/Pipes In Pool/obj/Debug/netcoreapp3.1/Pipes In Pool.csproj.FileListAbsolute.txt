@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.exe
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.deps.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.genruntimeconfig.cache

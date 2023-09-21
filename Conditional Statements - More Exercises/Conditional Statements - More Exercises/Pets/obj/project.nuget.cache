@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nD+oc1KRmC4lOdF0aFdE7n5j+DGvJcBxSZMJt5Wny+icigu/fu33ZuDBTB6W9OfhhqQFWPAt3uMYX+X645K1Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements - More Exercises\\Conditional Statements - More Exercises\\Pets\\Pets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

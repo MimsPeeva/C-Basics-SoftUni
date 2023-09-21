@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YaHWRGj+81xQeBfeZlN6FiGbs96CxG1tppoldYL+mZdSNHcj4oGWonj+LMt2HFoOmuiralGAVxaS5mcCW5sgxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\Flowers\\Flowers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

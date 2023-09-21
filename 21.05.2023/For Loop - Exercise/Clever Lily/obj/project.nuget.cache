@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6O/OmPnrKet8K70isErJHjQLJWDXqpmXwb2J46g4/LHSXIcrPqwG5ti9bXNVm8qAhSqSCR6vXsqiwRHpMUZi3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\21.05.2023\\For Loop - Exercise\\Clever Lily\\Clever Lily.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

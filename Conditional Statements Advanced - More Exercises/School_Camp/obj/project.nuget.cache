@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMbpo2I3RC8hFyhogy5XHDiITQP3+TJEPkhqzYXVpkfvXt9CeYeGBQyC8s2xzPu8BA6LqKXuzALMO68n5b477g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\School_Camp\\School_Camp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

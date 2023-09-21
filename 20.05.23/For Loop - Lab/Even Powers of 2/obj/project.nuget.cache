@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQiIjqvb/GIDo/ltXFSvkNJf3MRIj4E/68qIb4JkPavmF3sfHFdXMgvMpuRi4lAd+C6EqVjDQWdblx+mTBiFuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\20.05.23\\For Loop - Lab\\Even Powers of 2\\Even Powers of 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

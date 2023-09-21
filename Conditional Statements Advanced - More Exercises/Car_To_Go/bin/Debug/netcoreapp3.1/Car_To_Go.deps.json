@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Car_To_Go/1.0.0": {
+        "runtime": {
+          "Car_To_Go.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car_To_Go/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

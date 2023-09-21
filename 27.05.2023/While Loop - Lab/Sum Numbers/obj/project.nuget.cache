@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UkdECz6T77JZyGp2VoQF/qitoxBH/yJxOJ2vby+Hc3oQw8wHys8rJzF32i7zR8iKFLGzD9ro0uvFGbJV2nocg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\27.05.2023\\While Loop - Lab\\Sum Numbers\\Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

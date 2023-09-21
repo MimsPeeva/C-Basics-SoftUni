@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1mabeST0Pk2eXKhCuu8U+28JJhxCC+RNn2ChcKeW5mGcHSu+otHo0b8EMUO0OnRqHrlBvUy8bTzbJnqEQ4xWZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Weather_Forecast\\Weather_Forecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

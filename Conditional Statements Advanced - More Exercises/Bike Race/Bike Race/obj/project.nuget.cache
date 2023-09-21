@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GbB3fhmYXiOROVRoYLu0hj2qQOdg4rvB6gO0l22+SDCOhrm7cnYWzDQO+IjTj/KksgQaqvmTsIIQN6HnXwpoZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\Bike Race\\Bike Race\\Bike Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

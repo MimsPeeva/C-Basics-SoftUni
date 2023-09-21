@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTi/N1RN/PjUBuLfYx6ejINpBxJjWAcOWlM0Pe1g9LnQw5+Q/CPVAo+KD/pKLNe/9k4fvLwkOWq7YHWWUEvpdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Vegetable_Market\\Vegetable_Market.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

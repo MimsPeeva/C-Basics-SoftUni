@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfigX5a2XDIRGxdg04T0mlHzxoHZS7ApgdK5NOBuNVgX2AgKYq6xJvua82gi+aaqou8CGE4r7kdaAeunSPfL5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\03.06.2023\\Nested Loops - Lab\\Multiplication Table\\Multiplication Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

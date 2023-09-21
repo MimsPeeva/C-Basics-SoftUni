@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "07y8iYWwzf+gXvnEjVgz3oIPvfg+FySv7r8PTSZ8kfmYFbWV6ccmv5SFK/w/bnZ6gU0NhLo39xASECWSVLN7wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Exam-preparation\\Exam-preparation\\Care of Puppy\\Care of Puppy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

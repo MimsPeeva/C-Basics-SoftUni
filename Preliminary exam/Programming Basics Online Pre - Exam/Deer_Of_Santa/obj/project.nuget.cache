@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Idx0LHFLhauftvZS77+DdWXCVOsRTBaOOw5LgYM++PnnRDZi6gmuJxk+8Di7r2AMowR8WWgYS2lV81Z3knspQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Preliminary exam\\Programming Basics Online Pre - Exam\\Deer_Of_Santa\\Deer_Of_Santa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

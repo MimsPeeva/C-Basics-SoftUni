@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.exe
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.deps.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.dll
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\bin\Debug\netcoreapp3.1\Care of Puppy.pdb
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.dll
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.pdb
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Care of Puppy\obj\Debug\netcoreapp3.1\Care of Puppy.genruntimeconfig.cache

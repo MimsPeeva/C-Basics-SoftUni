@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vepgVexCySXTUx5nZqMIU/PDdduR0lApk2cUOq9ucBp0BOeYgukHbXfjL51uQLYzHo+HYkNs5LqSmbBEPxbRWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\For-Loop - More Exercises\\For-Loop - More Exercises\\Grades\\Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

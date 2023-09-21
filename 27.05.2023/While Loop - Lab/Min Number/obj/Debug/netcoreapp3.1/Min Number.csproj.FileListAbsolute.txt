@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.exe
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.deps.json
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.dll
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\bin\Debug\netcoreapp3.1\Min Number.pdb
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.dll
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.pdb
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Min Number\obj\Debug\netcoreapp3.1\Min Number.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAFSAibhzOTBj7sN0dSBuGJZ0hWz2biF0gfguZihHFtF6CqD67isnfUEfxnE33TfmtGz/ypG5pEQIm8W1MDWjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Circle_Area_and_Perimeter\\Circle_Area_and_Perimeter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

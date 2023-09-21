@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "udoj/2t9gN2P1ZpVvg1qWrPHxry1CqLKrns3101humpbWZK0WiGuP/I8a1rG8btOh2tWsvsu3UlaKJ8llrJ/XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\13.05.2023\\Conditional Statements Advanced - Lab\\Fruit Shop\\Fruit Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

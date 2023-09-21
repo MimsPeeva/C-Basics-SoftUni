@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyTd0LbqKrxgprWFlWpHMc7P9ZJsL6qukZM6D9PgijJPMcMd9oawEi3D1lR5jJ675Y2HBLHVQ9RTkzES9icvIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\Cinema\\Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

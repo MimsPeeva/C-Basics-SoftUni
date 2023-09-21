@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4ucL5ceJWZdfIGdnDJNUr799u9l9fnoa5XsTLHJ0uuD+OnVFRlzF0eCOoWzzur0nbO/pc7kqXV6mKTZ30WKww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\28.05.2023\\While Loop - Exercise\\Coins\\Coins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gB/MBp0pozvCUO64oZmtvSRJEyJA9Parl8OU7zyeUrzHk7kdao741mf83vu3mbO8Q9grBtCK68Gr/mo1Uyoj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Celsius_to_Fahrenheit\\Celsius_to_Fahrenheit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

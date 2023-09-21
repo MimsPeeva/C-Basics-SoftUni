@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\bin\Debug\netcoreapp3.1\Excursion.exe
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\bin\Debug\netcoreapp3.1\Excursion.deps.json
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\bin\Debug\netcoreapp3.1\Excursion.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\bin\Debug\netcoreapp3.1\Excursion.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\bin\Debug\netcoreapp3.1\Excursion.dll
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\bin\Debug\netcoreapp3.1\Excursion.pdb
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.dll
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.pdb
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Excursion\obj\Debug\netcoreapp3.1\Excursion.genruntimeconfig.cache

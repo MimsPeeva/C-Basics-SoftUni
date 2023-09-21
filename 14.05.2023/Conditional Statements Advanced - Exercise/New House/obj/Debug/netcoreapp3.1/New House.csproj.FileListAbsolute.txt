@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\bin\Debug\netcoreapp3.1\New House.exe
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\bin\Debug\netcoreapp3.1\New House.deps.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\bin\Debug\netcoreapp3.1\New House.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\bin\Debug\netcoreapp3.1\New House.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\New House\obj\Debug\netcoreapp3.1\New House.genruntimeconfig.cache

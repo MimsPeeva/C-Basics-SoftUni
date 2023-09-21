@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.exe
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.deps.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.genruntimeconfig.cache

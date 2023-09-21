@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sn+/xxl1kRqdzy2K9AMz72eHNBSTxgTLYS5DtYs06RRh06KQOOTjLtLR2d2Iw3auDa4LA3rWWCG18XnlsW+SqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\On Time for the Exam\\On Time for the Exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

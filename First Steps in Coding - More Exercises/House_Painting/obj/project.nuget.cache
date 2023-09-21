@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C787sRvijef7ChFYSL7T9xrKFjOnBAywn7tf2+Cjy0iaRJf6CDOlNKfYD2jdMwn+TMk1mb/jSy1Ff5yiUR1Amg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\House_Painting\\House_Painting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

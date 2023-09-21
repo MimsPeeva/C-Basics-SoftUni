@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\bin\Debug\netcoreapp3.1\Santas Holiday.exe
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\bin\Debug\netcoreapp3.1\Santas Holiday.deps.json
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\bin\Debug\netcoreapp3.1\Santas Holiday.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\bin\Debug\netcoreapp3.1\Santas Holiday.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\bin\Debug\netcoreapp3.1\Santas Holiday.dll
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\bin\Debug\netcoreapp3.1\Santas Holiday.pdb
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.dll
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.pdb
+C:\Users\Acer\Desktop\SoftUni\Preliminary exam\Programming Basics Online Pre - Exam\Santas Holiday\obj\Debug\netcoreapp3.1\Santas Holiday.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xdysk96MJ1j+eYOqd/Nec/fRQPB3/3JrNp/dExxErdp6pHfSApJZJ8iPEMI347nY6uKi09xf2QSNiXk/EzmW3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\21.05.2023\\For Loop - Exercise\\Histogram\\Histogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

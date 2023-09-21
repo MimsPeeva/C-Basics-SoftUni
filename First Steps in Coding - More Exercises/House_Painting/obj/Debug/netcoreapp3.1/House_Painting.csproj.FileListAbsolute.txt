@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\bin\Debug\netcoreapp3.1\House_Painting.exe
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\bin\Debug\netcoreapp3.1\House_Painting.deps.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\bin\Debug\netcoreapp3.1\House_Painting.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\bin\Debug\netcoreapp3.1\House_Painting.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\bin\Debug\netcoreapp3.1\House_Painting.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\bin\Debug\netcoreapp3.1\House_Painting.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\House_Painting\obj\Debug\netcoreapp3.1\House_Painting.genruntimeconfig.cache

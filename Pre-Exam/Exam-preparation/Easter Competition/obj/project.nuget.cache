@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5r8aftWblEUBtetb+8xEcXH+yKxYzTBUQ/Z7JacCXs9yeB19tK5MphajSbpSVLDQfs/SESGukTa9DcPS0iAzlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Exam-preparation\\Exam-preparation\\Easter Competition\\Easter Competition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

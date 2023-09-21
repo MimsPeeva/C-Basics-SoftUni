@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u86pEWswh0wsU/w97MM4923rGt9j0YrkG88L95f0rp4M5UVd7oB+Nt4gpIFCjTnNL30gJmwibMQhgFKciuae+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\20.05.23\\For Loop - Lab\\Vowels Sum\\Vowels Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2Nxn3rPkCiivbvR/337pad1CP6KHLses2ogKxtwxITcXxXH4pOuj6oNMIXcuds0zmyVVjpTnkb4Y6CxUvMsnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\21.05.2023\\For Loop - Exercise\\Salary\\Salary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

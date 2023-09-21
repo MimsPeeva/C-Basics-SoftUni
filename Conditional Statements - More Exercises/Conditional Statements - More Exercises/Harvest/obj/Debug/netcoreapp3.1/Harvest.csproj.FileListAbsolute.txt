@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.exe
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.deps.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\bin\Debug\netcoreapp3.1\Harvest.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Harvest\obj\Debug\netcoreapp3.1\Harvest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/Fu7zufLlhJKtK3/s6bwmx6h7MUb8Mn1TW4Oki8Hs8v1xVcoz8LPCxqa2EInoevF9cXuXDCD6S3+p3RkzjjMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Training_Lab\\Training_Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

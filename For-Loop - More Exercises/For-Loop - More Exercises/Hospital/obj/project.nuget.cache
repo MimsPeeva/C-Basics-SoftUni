@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhJQzhopO3gvzFxWougaK7gIjxnGgIF78YK6YNCGeKa49JIPWAtPXTKKnvRI7JiKUMSMVLoL6M2cYwqsa2NoGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\For-Loop - More Exercises\\For-Loop - More Exercises\\Hospital\\Hospital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

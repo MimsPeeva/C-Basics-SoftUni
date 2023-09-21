@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.exe
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.deps.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\bin\Debug\netcoreapp3.1\Character Sequence.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Character Sequence\obj\Debug\netcoreapp3.1\Character Sequence.genruntimeconfig.cache

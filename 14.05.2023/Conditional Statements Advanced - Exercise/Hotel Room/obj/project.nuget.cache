@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJ3Sepmnh5ILuMPxB9u/O79d8Hq/kY/jPd5BWKzp+bH42ok1JXTB0WjW/R15rr6KN8oQ71hxTrDR5SgaETLumQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\Hotel Room\\Hotel Room.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

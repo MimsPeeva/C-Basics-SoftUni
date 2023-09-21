@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "njrS7YeWRA/XjEwkYR3GPkBCyQyMWRnR2Y70Bpd7baCEU0T1gsqhPwvKcgrxK5+VUVtk8AW17oP25WLyPNNwMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\Conditional Statements Advanced - More Exercises\\Match Tickets\\Match Tickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

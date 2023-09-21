@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\bin\Debug\netcoreapp3.1\Training_Lab.exe
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\bin\Debug\netcoreapp3.1\Training_Lab.deps.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\bin\Debug\netcoreapp3.1\Training_Lab.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\bin\Debug\netcoreapp3.1\Training_Lab.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\bin\Debug\netcoreapp3.1\Training_Lab.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\bin\Debug\netcoreapp3.1\Training_Lab.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Training_Lab\obj\Debug\netcoreapp3.1\Training_Lab.genruntimeconfig.cache

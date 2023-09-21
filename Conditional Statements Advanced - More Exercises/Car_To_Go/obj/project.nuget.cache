@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WY/bJMkKPQM+3F5uGa0ZnezMToJ042Me0ruhBwMCzXLfOicfT3l5fB0H95PsJzeqCv8Je9NeshQesV2X8zxkOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\Car_To_Go\\Car_To_Go.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

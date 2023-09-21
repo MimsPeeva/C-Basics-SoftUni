@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.exe
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.deps.json
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\bin\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.dll
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.pdb
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Exam Preparation\obj\Debug\netcoreapp3.1\Exam Preparation.genruntimeconfig.cache

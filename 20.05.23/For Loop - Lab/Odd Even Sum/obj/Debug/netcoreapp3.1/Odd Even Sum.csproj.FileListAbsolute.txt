@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.exe
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.deps.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\bin\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Odd Even Sum\obj\Debug\netcoreapp3.1\Odd Even Sum.genruntimeconfig.cache

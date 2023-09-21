@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jvf9cxJw7UsElJFVS4tC7VMe2/YM360phYQP5mgO0+pZeHq4TyFq/egaO3RtWbXcadjLCAE97+NPcUy3vqkqCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\While-Loop - More Exercises\\Average Number\\Average Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

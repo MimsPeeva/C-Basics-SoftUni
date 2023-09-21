@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WVRGFSaLtNbh78Tp96PBaSi0h0CeOrxtqlrkqzzKr7cL1os+uCEMBGFp5FjkOJOuq3btbNkfyx3pzj7iJT6EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\28.05.2023\\While Loop - Exercise\\Exam Preparation\\Exam Preparation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOFZ2/U5wn3Q7Yx0Sr22blZkh26HwLn0j2ul4UnolR+fTJIRXS0lzjvwl5EZGAu1AWJzSIhA4zbd22LYUTWKRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Exam-preparation\\Exam-preparation\\Skeleton\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

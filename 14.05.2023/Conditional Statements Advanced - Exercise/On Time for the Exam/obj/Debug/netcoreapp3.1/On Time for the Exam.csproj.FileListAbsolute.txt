@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.exe
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.deps.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\bin\Debug\netcoreapp3.1\On Time for the Exam.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\On Time for the Exam\obj\Debug\netcoreapp3.1\On Time for the Exam.genruntimeconfig.cache

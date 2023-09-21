@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIJGyNlbIy2n2gFn5/zlzDMxWLZhQB+joanwo/vxMoJVi05/jMZC8A8NbmAnZevqxYfnqn2dbbS48zmneBvIhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\30.04.23\\Conditional Statements - Exercise\\World_Swimming_Record\\World_Swimming_Record.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "unS6jS9eEWokEGf3KQkkQWO37UGpF/aEXIaUf+pmq1IZI1t2Xc3F1l8cbCJT7VCkk5nMQW0bRYrWTbk+/Y2G6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\27.05.2023\\While Loop - Lab\\Account Balance\\Account Balance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

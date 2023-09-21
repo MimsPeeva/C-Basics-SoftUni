@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j079yINAkjtk0a9uyj9W0jO46CIELU9UcD5NR2fIq4Qx315NZyIiiTirJok7AwoRTb+KzzKc1vj+XmPVBxWf7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\28.05.2023\\While Loop - Exercise\\Walking\\Walking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

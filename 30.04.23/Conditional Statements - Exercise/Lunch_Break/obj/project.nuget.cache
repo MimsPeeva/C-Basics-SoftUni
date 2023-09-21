@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VD6oDQRU46m5Ery4xnjtxD1Kw1QCx+686M1Ng4usFUywkJb4duXR5APa3jIyReNmvVirdNPBB51AZ0zXQzszdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\30.04.23\\Conditional Statements - Exercise\\Lunch_Break\\Lunch_Break.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

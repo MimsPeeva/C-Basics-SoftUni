@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.exe
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.deps.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.dll
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.pdb
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.dll
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.pdb
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDUQEU4tsvJXkXZW5hJYQstu9DtEEtnY4zJa0+NIHzhSj4W3+AEc4cmoLlNcbNbw33kXi482oiseRCLYPRjz4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\30.04.23\\Conditional Statements - Exercise\\Shopping\\Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

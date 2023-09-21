@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8yuKc4tHgE0jDEUitt9jfNNVMWyaQ1BOPndBSBYed3hxSEG1zkxWAGg+aEnaAYlJxB3zc9UiSjOMz390WOsZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements - More Exercises\\Conditional Statements - More Exercises\\Fuel Tank - Part 2\\Fuel Tank - Part 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

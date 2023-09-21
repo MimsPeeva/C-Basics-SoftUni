@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyXDO/wFWQUS0j4z7ty2b6oDrXDw4AlfFh/VGhzTRnHdxd8SFyFz69wb8cEs7rs2KnAYcv3d+Y9gz1UODscqZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\While-Loop - More Exercises\\Stream Of Letters\\Stream Of Letters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6iJstTH+/AP7omWtaLbmOtMia3UCtN9MS0UqMmHgx87rgc+Mh83fpqDGK9jRoxJFIx8c+Gc6CynQEb39r5NSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\27.05.2023\\While Loop - Lab\\Min Number\\Min Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

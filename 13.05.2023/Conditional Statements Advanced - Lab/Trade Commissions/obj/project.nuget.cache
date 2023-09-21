@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOTCPwPLP1/6bCan9O+inRHm3wHoC9UhQtED23P3h/nwhZ4Ktxse/1gR7BGE2Z94QDp2yyKkWJ8IF2kVV4VWww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\13.05.2023\\Conditional Statements Advanced - Lab\\Trade Commissions\\Trade Commissions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

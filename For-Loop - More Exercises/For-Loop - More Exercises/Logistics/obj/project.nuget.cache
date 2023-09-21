@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zv3KbK18p7YJ0/DHxVe2S0HPOZJo0/GiwxQj4sNybC4WOFFZqNoo2MlO8Qd5avYDjGILKvpJt+IW+zN/0DxRGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\For-Loop - More Exercises\\For-Loop - More Exercises\\Logistics\\Logistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

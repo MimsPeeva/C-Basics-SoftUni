@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\bin\Debug\netcoreapp3.1\Trade Commissions.exe
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\bin\Debug\netcoreapp3.1\Trade Commissions.deps.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\bin\Debug\netcoreapp3.1\Trade Commissions.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\bin\Debug\netcoreapp3.1\Trade Commissions.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\bin\Debug\netcoreapp3.1\Trade Commissions.dll
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\bin\Debug\netcoreapp3.1\Trade Commissions.pdb
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.dll
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.pdb
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Trade Commissions\obj\Debug\netcoreapp3.1\Trade Commissions.genruntimeconfig.cache

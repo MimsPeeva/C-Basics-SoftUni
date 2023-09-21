@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.exe
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.deps.json
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.dll
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\bin\Debug\netcoreapp3.1\Logistics.pdb
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.dll
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.pdb
+C:\Users\Acer\Desktop\SoftUni\For-Loop - More Exercises\For-Loop - More Exercises\Logistics\obj\Debug\netcoreapp3.1\Logistics.genruntimeconfig.cache

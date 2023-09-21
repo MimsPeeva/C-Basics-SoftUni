@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.exe
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.deps.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\bin\Debug\netcoreapp3.1\Fishland.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Fishland\obj\Debug\netcoreapp3.1\Fishland.genruntimeconfig.cache

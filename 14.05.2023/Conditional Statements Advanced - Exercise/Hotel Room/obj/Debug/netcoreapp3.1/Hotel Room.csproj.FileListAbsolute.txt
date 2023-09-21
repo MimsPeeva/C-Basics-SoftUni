@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.exe
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.deps.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\bin\Debug\netcoreapp3.1\Hotel Room.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Hotel Room\obj\Debug\netcoreapp3.1\Hotel Room.genruntimeconfig.cache

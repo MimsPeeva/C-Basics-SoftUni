@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPGZpGgFphzWwAYedEWuzidUIa9wPl+wRASSA5nKFM9IPoYVRy4U4l0eXGcXTPgnIgBlEv4mmAtOPNx36ycA8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\28.05.2023\\While Loop - Exercise\\Cake\\Cake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

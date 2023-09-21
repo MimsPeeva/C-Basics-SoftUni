@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\bin\Debug\netcoreapp3.1\Painting Eggs.exe
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\bin\Debug\netcoreapp3.1\Painting Eggs.deps.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\bin\Debug\netcoreapp3.1\Painting Eggs.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\bin\Debug\netcoreapp3.1\Painting Eggs.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\bin\Debug\netcoreapp3.1\Painting Eggs.dll
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\bin\Debug\netcoreapp3.1\Painting Eggs.pdb
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.dll
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.pdb
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Painting Eggs\obj\Debug\netcoreapp3.1\Painting Eggs.genruntimeconfig.cache

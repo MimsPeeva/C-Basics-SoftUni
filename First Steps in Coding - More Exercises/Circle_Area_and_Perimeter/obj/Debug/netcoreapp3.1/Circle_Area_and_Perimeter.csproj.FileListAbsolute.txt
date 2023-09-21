@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\bin\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.exe
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\bin\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.deps.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\bin\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\bin\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\bin\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\bin\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Circle_Area_and_Perimeter\obj\Debug\netcoreapp3.1\Circle_Area_and_Perimeter.genruntimeconfig.cache

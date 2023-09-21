@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQT1KDJpFbLlLgCI/BC2+gkFp24rqbU2fQLNH6lX1GR3fWS775RHO8SahPWOpdL/f8+RrCMsIYNoPvUeN0GRAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\20.05.23\\For Loop - Lab\\Odd Even Sum\\Odd Even Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

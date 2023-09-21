@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghQVWfR7IHYSih+1MuJhJ+8GPaCBWFBp1ZWyoxG9Xfx+jZqm5HrOXGsIKb/EmA7s93ukM1hoLKO9TCHQ5dPRcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Exam-preparation\\Exam-preparation\\Balls\\Balls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.exe
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.deps.json
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\bin\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\Acer\Desktop\SoftUni\27.05.2023\While Loop - Lab\Read Text\obj\Debug\netcoreapp3.1\Read Text.genruntimeconfig.cache

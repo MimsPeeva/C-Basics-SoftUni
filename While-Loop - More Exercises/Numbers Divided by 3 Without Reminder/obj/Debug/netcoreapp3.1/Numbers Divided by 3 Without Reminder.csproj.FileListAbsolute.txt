@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.exe
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.deps.json
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.dll
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\bin\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.pdb
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.dll
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.pdb
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Numbers Divided by 3 Without Reminder\obj\Debug\netcoreapp3.1\Numbers Divided by 3 Without Reminder.genruntimeconfig.cache

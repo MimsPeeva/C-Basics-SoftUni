@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6LEUICBh9vfGlpwLohkPDVRwfGgfc8ItyL0V7wPRzpBWFmMrDfgQk5whynpuHxnFGHJXfidE4LKmT++W9JHHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\20.05.23\\For Loop - Lab\\Numbers N_1\\Numbers N_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

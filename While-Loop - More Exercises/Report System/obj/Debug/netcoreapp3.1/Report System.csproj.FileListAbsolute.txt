@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\bin\Debug\netcoreapp3.1\Report System.exe
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\bin\Debug\netcoreapp3.1\Report System.deps.json
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\bin\Debug\netcoreapp3.1\Report System.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\bin\Debug\netcoreapp3.1\Report System.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\bin\Debug\netcoreapp3.1\Report System.dll
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\bin\Debug\netcoreapp3.1\Report System.pdb
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.dll
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.pdb
+C:\Users\Acer\Desktop\SoftUni\04.06.2023\While-Loop - More Exercises\Report System\obj\Debug\netcoreapp3.1\Report System.genruntimeconfig.cache

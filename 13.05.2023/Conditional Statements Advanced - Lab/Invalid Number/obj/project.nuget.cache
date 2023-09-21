@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtPqU2hCVjCDEOno7C57urw6jbyARYiyTxKjEOAM2hg49RxQswZvdSmJR//pee5G2zddCbK1jubTrUuG0gdb2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\13.05.2023\\Conditional Statements Advanced - Lab\\Invalid Number\\Invalid Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

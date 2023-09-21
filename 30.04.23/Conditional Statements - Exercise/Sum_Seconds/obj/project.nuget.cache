@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZrdhDpmcqDKjMssCL586cBZwgVKBM8CV6oSex3FRN7taU46jzcBL7OQItqFvDtlZxEcU6IeFXFodBN8KGGETA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\30.04.23\\Conditional Statements - Exercise\\Sum_Seconds\\Sum_Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

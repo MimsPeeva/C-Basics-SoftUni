@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVz4cZX3vzXSB+Aqalz/8LysckxleOqRob5Cr2Oa+Pvk+5N3lXmdoRR4YjQcAxpM0cKiZwn8x0J9gSqfccSZVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\30.04.23\\Conditional Statements - Exercise\\Godzilla_vs_Kong\\Godzilla_vs_Kong.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

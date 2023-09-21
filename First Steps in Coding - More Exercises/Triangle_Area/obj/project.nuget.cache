@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEy4JPJNKfUEedcOdQJ6vtZp1VshUdEgG6NsU2N9e5EENrQhNb20a4w1hP1kRM2gi3MaEbDeTri5uP2y+WtVOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Triangle_Area\\Triangle_Area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

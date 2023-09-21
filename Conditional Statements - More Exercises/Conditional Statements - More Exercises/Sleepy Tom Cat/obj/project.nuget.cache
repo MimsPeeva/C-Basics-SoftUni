@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JpHqP1opQHPxr8x74A8UOKbDCVI6xU0hoOOEyHo3OJ6wWOXNXraG+bXRkYYhJfDmdmLZX0cFTbFNQ7VaLWJMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements - More Exercises\\Conditional Statements - More Exercises\\Sleepy Tom Cat\\Sleepy Tom Cat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

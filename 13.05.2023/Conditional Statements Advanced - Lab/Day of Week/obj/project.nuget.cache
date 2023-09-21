@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gu6fTSEcMlJ2aQMrGCmAQuKx1B2uW/m8JL/Cs3QbT6TZbiKRXoiukZ6jvZvowSFtF9SAtsPyDP4aZvlfrvjN1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\13.05.2023\\Conditional Statements Advanced - Lab\\Day of Week\\Day of Week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

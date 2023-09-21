@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftXIyeITJaWbSXkPTTtS/0lUMzXWDxyyrX7t6QZ4bCnAE6tiVLrGe/wI7fvwyAP17WBAl74TeJrhVlYYEmhUfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\New House\\New House.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

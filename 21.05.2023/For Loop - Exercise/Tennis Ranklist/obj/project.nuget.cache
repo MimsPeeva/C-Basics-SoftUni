@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "085CqgWC1yiOPJzdcXqxHDs8UX+X2HLra+To81F0yEMQwKV+cR0lIqbmAf9TJun1+rSIOdxese3/3Cttq/4b+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\21.05.2023\\For Loop - Exercise\\Tennis Ranklist\\Tennis Ranklist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.exe
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.deps.json
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\bin\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.dll
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.pdb
+C:\Users\Acer\Desktop\SoftUni\28.05.2023\While Loop - Exercise\Old Books\obj\Debug\netcoreapp3.1\Old Books.genruntimeconfig.cache

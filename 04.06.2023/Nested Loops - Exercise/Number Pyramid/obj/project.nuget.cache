@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8b2mw7tApnIPdIIulODbC4UjScA5wzbnV+GJ5IMmKsM/Kg5MMi61lYT95L+Su0k276mBHpAmlqaw9QUQbk8yXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\04.06.2023\\Nested Loops - Exercise\\Number Pyramid\\Number Pyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

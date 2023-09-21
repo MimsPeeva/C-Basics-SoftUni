@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZIR5GkBlcVU5hZC59oXqS5B36OYlDNeACbzNFszvaQed6LHjnhglyCKZk2IcqS2KEmoReWKHtqz1XONtSAdbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\29.04.23\\Conditional Statements - Lab\\Speed_Info\\Speed_Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

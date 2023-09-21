@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qigZMpO6d0GiU1OaMnVsiYIULG1xW2xomRaLu1tyfjHSR8dpmLd7SHo0ioUCsnS7NYITXDeyCVHxcB6+3AbenQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements - More Exercises\\Conditional Statements - More Exercises\\Flower Shop\\Flower Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

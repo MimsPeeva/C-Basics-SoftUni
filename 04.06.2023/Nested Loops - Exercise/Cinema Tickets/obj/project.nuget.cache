@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVdcMozc0zo1pem3KzfXDjiDsdO04/ZgZe1xuqkYyCwi0D03ybrxOX3wLntQ9/O6pME7d2TlKX8NH6tyWCu8VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\04.06.2023\\Nested Loops - Exercise\\Cinema Tickets\\Cinema Tickets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

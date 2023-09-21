@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.exe
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.deps.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\bin\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.dll
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.pdb
+C:\Users\Acer\Desktop\SoftUni\20.05.23\For Loop - Lab\Vowels Sum\obj\Debug\netcoreapp3.1\Vowels Sum.genruntimeconfig.cache

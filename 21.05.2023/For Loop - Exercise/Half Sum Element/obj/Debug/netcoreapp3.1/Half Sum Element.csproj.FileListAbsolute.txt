@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.exe
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.deps.json
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\bin\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.dll
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.pdb
+C:\Users\Acer\Desktop\SoftUni\21.05.2023\For Loop - Exercise\Half Sum Element\obj\Debug\netcoreapp3.1\Half Sum Element.genruntimeconfig.cache

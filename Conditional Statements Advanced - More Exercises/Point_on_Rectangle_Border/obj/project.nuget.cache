@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t11LWnSqEEPJ/TpzBuMYmJVtIg1ex4IdAXJ10a3Jqf0/0dEGAZVsEkwZinusa3lGz3K33AGkWBgefWgublaufw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\Point_on_Rectangle_Border\\Point_on_Rectangle_Border.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

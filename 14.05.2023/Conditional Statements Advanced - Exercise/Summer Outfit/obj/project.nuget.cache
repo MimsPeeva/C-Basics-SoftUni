@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSMHsTBNVmPXvkxPLhjdlWFdmf4qaTkoqgqj7+qmlVHISv9I9DMSHJfzu3K1JhYuH69k2yegDh0Qu5E4sPlx9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\Summer Outfit\\Summer Outfit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0yRnjf+rfhiLRdvQYIEtbtLe1/lPKwIc0pxqHTDUmMIpvl1J7DqIzGkT0Qd6xiTivyOIFJq4/YPf27ynl0FTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\First Steps in Coding - More Exercises\\Fishland\\Fishland.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

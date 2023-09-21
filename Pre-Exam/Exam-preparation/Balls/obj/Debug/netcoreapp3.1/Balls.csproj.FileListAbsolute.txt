@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\bin\Debug\netcoreapp3.1\Balls.exe
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\bin\Debug\netcoreapp3.1\Balls.deps.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\bin\Debug\netcoreapp3.1\Balls.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\bin\Debug\netcoreapp3.1\Balls.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\bin\Debug\netcoreapp3.1\Balls.dll
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\bin\Debug\netcoreapp3.1\Balls.pdb
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.dll
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.pdb
+C:\Users\Acer\Desktop\SoftUni\Exam-preparation\Exam-preparation\Balls\obj\Debug\netcoreapp3.1\Balls.genruntimeconfig.cache

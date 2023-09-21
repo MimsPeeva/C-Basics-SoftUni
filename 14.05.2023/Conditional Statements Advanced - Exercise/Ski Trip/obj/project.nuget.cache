@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RoGG5Xkb3Mh12VN7eM48sCWdKDLYKgHkOlftRhWme7DXvnxDCr4ZTb/IL6+qEJKRUQNxWWEi5J41s+qmbnIiOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\Ski Trip\\Ski Trip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

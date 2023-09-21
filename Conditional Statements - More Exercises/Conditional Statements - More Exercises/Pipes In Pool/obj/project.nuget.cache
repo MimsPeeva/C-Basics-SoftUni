@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfOEsfVb6s3qcUXIgyLwQQVUGhcHwmUyDqExUh+S7XsAxwbGwDbQqVqa4xU4uADGb0JSCU0R+qMKA7agzizO4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements - More Exercises\\Conditional Statements - More Exercises\\Pipes In Pool\\Pipes In Pool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.exe
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.deps.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.dll
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\bin\Debug\netcoreapp3.1\Invalid Number.pdb
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.dll
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.pdb
+C:\Users\Acer\Desktop\SoftUni\13.05.2023\Conditional Statements Advanced - Lab\Invalid Number\obj\Debug\netcoreapp3.1\Invalid Number.genruntimeconfig.cache

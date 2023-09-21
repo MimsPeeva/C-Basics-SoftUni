@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.exe
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.deps.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\bin\Debug\netcoreapp3.1\Fuel Tank.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Fuel Tank\obj\Debug\netcoreapp3.1\Fuel Tank.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\bin\Debug\netcoreapp3.1\Transport Price.exe
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\bin\Debug\netcoreapp3.1\Transport Price.deps.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\bin\Debug\netcoreapp3.1\Transport Price.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\bin\Debug\netcoreapp3.1\Transport Price.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\bin\Debug\netcoreapp3.1\Transport Price.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\bin\Debug\netcoreapp3.1\Transport Price.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.dll
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.pdb
+C:\Users\Acer\Desktop\SoftUni\Conditional Statements - More Exercises\Conditional Statements - More Exercises\Transport Price\obj\Debug\netcoreapp3.1\Transport Price.genruntimeconfig.cache

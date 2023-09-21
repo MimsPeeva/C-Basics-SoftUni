@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8pKkNxgl9Lgn39pgEhFL6wCk9pj8GuvHNNV7eAdztG2MKrcqMg33YS1aeGaBhInowXq3c2Zy7sD6CkEpqPpAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Preliminary exam\\Programming Basics Online Pre - Exam\\Substitute\\Substitute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

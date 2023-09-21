@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPbhybaLlfShba7FFMzhe9RIl5BTZs9cNuZ3sQ45bPHWcjCsM2HfG/A7KWX3+i5slCstqesBUGzv5kjohrQXKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\14.05.2023\\Conditional Statements Advanced - Exercise\\Operations Between Numbers\\Operations Between Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

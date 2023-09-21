@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0foltH2+PX15LxUhWDjd8OEeY0cn8W4Ru/17NJofx8wnVtr0HSldu/Ch6bXEIEfn/UNRQI3xqBfBnJSnaJwmaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\28.05.2023\\While Loop - Exercise\\Old Books\\Old Books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

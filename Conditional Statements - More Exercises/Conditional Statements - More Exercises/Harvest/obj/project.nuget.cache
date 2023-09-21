@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dx+ly3y2lz1BWViW+1F6YB03OYa1KVrXbpeFXYUDciand3TZIOxp4AWEF+t3veycPiI806HOsP9Qz7+A0OEPfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements - More Exercises\\Conditional Statements - More Exercises\\Harvest\\Harvest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

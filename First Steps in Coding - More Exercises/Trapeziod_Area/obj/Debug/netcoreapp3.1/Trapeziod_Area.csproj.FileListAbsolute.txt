@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\bin\Debug\netcoreapp3.1\Trapeziod_Area.exe
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\bin\Debug\netcoreapp3.1\Trapeziod_Area.deps.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\bin\Debug\netcoreapp3.1\Trapeziod_Area.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\bin\Debug\netcoreapp3.1\Trapeziod_Area.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\bin\Debug\netcoreapp3.1\Trapeziod_Area.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\bin\Debug\netcoreapp3.1\Trapeziod_Area.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.dll
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.pdb
+C:\Users\Acer\Desktop\SoftUni\First Steps in Coding - More Exercises\Trapeziod_Area\obj\Debug\netcoreapp3.1\Trapeziod_Area.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\Acer\Desktop\SoftUni\14.05.2023\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache

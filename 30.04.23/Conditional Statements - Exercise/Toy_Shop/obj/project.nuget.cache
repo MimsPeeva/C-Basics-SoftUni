@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6KP/XmKt9TYY7dqkSC3igpH+3C9idWI4NCcQax2U0whyFIkqipjDsIiXK3xTBBrQ1EUtc+NaddWeKUulHhWOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\30.04.23\\Conditional Statements - Exercise\\Toy_Shop\\Toy_Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

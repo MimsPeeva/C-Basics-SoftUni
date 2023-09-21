@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VE7eOuwvB9XD1o1jf3ouxkaZtHKEsU5RqzKMdD2poZFSDj9v+Xne4AdzAH3zvP4s6X+5V1PpS0FyNEwnPvXwvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\Conditional Statements Advanced - More Exercises\\Multiply_by_2\\Multiply_by_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

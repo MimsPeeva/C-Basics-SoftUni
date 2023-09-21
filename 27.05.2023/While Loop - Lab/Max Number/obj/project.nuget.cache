@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBI/Qbd3YWP+kYaCdF/Q3OHxQdjgvV4AfRK3qoFka0Y3NWm1golswl8OVHEEib49DfKmq7ATDio4lkiXXDMcGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\27.05.2023\\While Loop - Lab\\Max Number\\Max Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

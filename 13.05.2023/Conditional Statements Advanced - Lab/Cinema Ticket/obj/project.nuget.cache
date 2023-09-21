@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ANjWh2Py4Zghqysqju7saZMq4KjCmQadT9RnYiv8iuIiYQdNQMoWN0iW0xOF/WunQe40NnsLtoL4cHLbY2yMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\13.05.2023\\Conditional Statements Advanced - Lab\\Cinema Ticket\\Cinema Ticket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

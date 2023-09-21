@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Krak7hpV4byfr7fGJELRBhewrYw33JIKiD3oZ8q527wLniBCOp4cZxI7LjeyhXwn87jnInA0TXpdXE8r9ygyWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\SoftUni\\28.05.2023\\While Loop - Exercise\\Moving\\Moving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
