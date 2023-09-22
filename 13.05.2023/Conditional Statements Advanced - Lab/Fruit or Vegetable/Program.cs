@@ -21,6 +21,7 @@ namespace Fruit_or_Vegetable
                 case "carrot":
                     Console.WriteLine("vegetable"); break;
                 default:Console.WriteLine("unknown"); break;
+                Console.ReadKey();
             }
             
             
